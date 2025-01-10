@@ -2,6 +2,12 @@
 
 An example of Q-Learning application to a Multi-Agent System leveraging the GAMA platform.
 
+## Table of Contents
+- [Introduction to the System](#introduction-to-the-system)
+- [Rules for Happiness Value](#rules-for-happiness-value)
+- [Q-Learning Implementation](#q-learning-implementation)
+- [Results](#results)
+
 ## Introduction to the System
 
 This project simulates a multi-agent system with 50 guests, 5 stages, and 2 bars. The guests are divided into five personality types:
