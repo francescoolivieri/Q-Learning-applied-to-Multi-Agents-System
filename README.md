@@ -1,4 +1,4 @@
-# Q-Learning Applied to Multi-Agent Systems
+# Q-Learning Applied to Multi-Agent System
 
 An example of Q-Learning application to a Multi-Agent System leveraging the GAMA platform.
 
